@@ -37,12 +37,12 @@ graph TD
 
 ## 🚀 Repositories & Setup
 
-### 🖥️ [Frontend Application (Client)](../collaborative-board-frontend/README.md)
+### 🖥️ [Frontend Application (Client)](https://github.com/soham-kolhe/collaborative-board-frontend)
 A modern, type-safe UI designed for responsiveness and smooth user interaction.
 - Stack: React 18, TypeScript, Vite, Tailwind CSS, Axios, Lucide Icons.
 - Key Achievement: Migrated to a dedicated repository with optimized environment-based API configuration.
 
-### ⚙️ [Backend Service (Server)](../collaborative-board-backend/README.md)
+### ⚙️ [Backend Service (Server)](https://github.com/soham-kolhe/collaborative-board-backend)
 Responsible for API routing, real-time event handling, and database persistence.
 - Stack: Node.js, Express, Socket.io, MongoDB, Mongoose, JWT, bcryptjs.
 - Key Achievement: Refactored to handle large 10MB payloads for complex board states.
