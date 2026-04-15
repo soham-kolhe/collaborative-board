@@ -1,10 +1,10 @@
-# Collaborative Board
+# CollabBoard
 
 A high-performance, decoupled full-stack application enabling multiple users to brainstorm and collaborate on an infinite canvas in real-time. This project demonstrates a transition from a monolithic architecture to a distributed Micro-services style pattern, separating the React/Vite frontend from the Node.js/Socket.io backend.
 
 ## 📐 System Architecture
 
-The following diagram illustrates the high-level architecture of the Collaborative Board application:
+The following diagram illustrates the high-level architecture of the CollabBoard application:
 
 ```mermaid
 graph TD
@@ -37,12 +37,12 @@ graph TD
 
 ## 🚀 Repositories & Setup
 
-### 🖥️ [Frontend Application (Client)](https://github.com/soham-kolhe/collaborative-board-frontend)
+### 🖥️ [Frontend Application (Client)](https://github.com/soham-kolhe/CollabBoard-frontend)
 A modern, type-safe UI designed for responsiveness and smooth user interaction.
 - Stack: React 18, TypeScript, Vite, Tailwind CSS, Axios, Lucide Icons.
 - Key Achievement: Migrated to a dedicated repository with optimized environment-based API configuration.
 
-### ⚙️ [Backend Service (Server)](https://github.com/soham-kolhe/collaborative-board-backend)
+### ⚙️ [Backend Service (Server)](https://github.com/soham-kolhe/CollabBoard-backend)
 Responsible for API routing, real-time event handling, and database persistence.
 - Stack: Node.js, Express, Socket.io, MongoDB, Mongoose, JWT, bcryptjs.
 - Key Achievement: Refactored to handle large 10MB payloads for complex board states.
