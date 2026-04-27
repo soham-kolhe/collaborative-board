@@ -68,8 +68,8 @@ Open `http://localhost:5173` — sign up, create a board, share the link.
 
 | Repo | Stack | Description |
 |------|-------|-------------|
-| [CollabBoard-frontend](https://github.com/soham-kolhe/CollabBoard-frontend) | React · TypeScript · Vite · Tailwind | UI, canvas, real-time client |
-| [CollabBoard-backend](https://github.com/soham-kolhe/CollabBoard-backend) | Node.js · Express · Socket.io · MongoDB | API, auth, WebSocket server |
+| [CollabBoard-frontend](https://github.com/soham-kolhe/CollabBoard-frontend) | React, TypeScript, Vite, Tailwind | UI, canvas, real-time client |
+| [CollabBoard-backend](https://github.com/soham-kolhe/CollabBoard-backend) | Node.js, Express, Socket.io, MongoDB | API, auth, WebSocket server |
 
 ## 🤝 Contributing
 
